@@ -155,7 +155,7 @@ const Work = () => {
               modules={[FreeMode, Pagination]}
               className="mySwiper"
             >
-              {projects.slice(0, 9).map((project, index) => (
+              {projects.slice(0, 11).map((project, index) => (
                 <SwiperSlide key={project.id}>
                   <motion.div
                     initial={{ opacity: 0, y: 30 }}
