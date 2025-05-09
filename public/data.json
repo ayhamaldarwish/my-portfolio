@@ -69,13 +69,6 @@
       "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate atque ex qui deleniti earum, sint at, reiciendis, dolore fugit adipisci blanditiis pariatur.",
       "link": "https://e-commerce-full-function-fsoq3oj18-ayham-aldarwishs-projects.vercel.app/",
       "photo": "/images/project-9.jpg"
-    },
-    {
-      "id": 11,
-      "title": "This is eleventh project ",
-      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate atque ex qui deleniti earum, sint at, reiciendis, dolore fugit adipisci blanditiis pariatur.",
-      "link": "https://skybound-community.vercel.app/",
-      "photo": "/images/project-10.jpg"
-      },
+    }
   ]
 }
